@@ -1,1 +1,2 @@
-# Taxes
+# Hash the passwords 
+
